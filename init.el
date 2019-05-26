@@ -14,6 +14,8 @@
 
 (require 'init-company-mode)
 
+(require 'init-go)
+
 (provide 'init)
 (custom-set-variables
  ;; custom-set-variables was added by Custom.
