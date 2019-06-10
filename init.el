@@ -16,6 +16,8 @@
 
 (require 'init-go)
 
+(require 'init-rust)
+
 (provide 'init)
 (custom-set-variables
  ;; custom-set-variables was added by Custom.
